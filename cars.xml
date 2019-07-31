@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carrentalsystem>
+	<car category="sedan">
+		<id>1</id>
+		<brand>Toyota</brand>
+		<model>Camry</model>
+		<model_year>2018</model_year>
+		<mileage>10000</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>5</seats>
+		<price_per_day>450</price_per_day>
+		<description>
+		The latest Camry, which is the eighth-generation of the global Camry model, and known as the XV70 was introduced at the January 2017 North American International Auto Show.
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="sedan">
+		<id>2</id>
+		<brand>Hyundai</brand>
+		<model>Sonata</model>
+		<model_year>2014</model_year>
+		<mileage>90010</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>5</seats>
+		<price_per_day>299</price_per_day>
+		<description>
+		Originally internally coded as LFA, the 2015 Sonata was unveiled in South Korea on March 24, 2014. It made its North American debut at the 2014 New York International Auto Show. 
+		</description>
+		<availability>False</availability>
+	</car>
+	<car category="sedan">
+		<id>3</id>
+		<brand>Honda</brand>
+		<model>Civic</model>
+		<model_year>2018</model_year>
+		<mileage>8999</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>5</seats>
+		<price_per_day>300</price_per_day>
+		<description>
+		The tenth generation Civic is based on an all-new Honda compact global platform. The tenth-generation Civic features a new fastback exterior design, with the rear C-pillar flowing into the tailgate.
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="sedan">
+		<id>4</id>
+		<brand>BMW</brand>
+		<model>320i</model>
+		<model_year>2019</model_year>
+		<mileage>13900</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>5</seats>
+		<price_per_day>410</price_per_day>
+		<description>
+		The design for the fifth generation 3 Series was frozen in mid-2002, approximately 30 months before the start of production.
+		</description>
+		<availability>False</availability>
+	</car>
+	<car category="suv">
+		<id>5</id>
+		<brand>Nissan</brand>
+		<model>X-trail</model>
+		<model_year>2015</model_year>
+		<mileage>382723</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>7</seats>
+		<price_per_day>360</price_per_day>
+		<description>
+		The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan since 2000. In third generation, it is a 3-row (which means 7-seater) SUV.
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="suv">
+		<id>6</id>
+		<brand>Holden</brand>
+		<model>Captiva</model>
+		<model_year>2016</model_year>
+		<mileage>34235</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>7</seats>
+		<price_per_day>290</price_per_day>
+		<description>
+		The Holden Captiva is a crossover SUV produced from 2006 to 2018 by GM Korea, previously known as Daewoo.
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="suv">
+		<id>7</id>
+		<brand>Mercedes-Benz</brand>
+		<model>GLC</model>
+		<model_year>2017</model_year>
+		<mileage>42634</mileage>
+		<fuel_type>Petrol</fuel_type>
+		<seats>5</seats>
+		<price_per_day>390</price_per_day>
+		<description>
+		The Mercedes-Benz GLC-Class (X253/C253) is a compact luxury SUV introduced in 2015 for the 2016 model year that replaces the former Mercedes-Benz GLK-Class.
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="suv">
+		<id>8</id>
+		<brand>Jeep</brand>
+		<model>Cherokee</model>
+		<model_year>2014</model_year>
+		<mileage>98432</mileage>
+		<fuel_type>Diesel</fuel_type>
+		<seats>7</seats>
+		<price_per_day>400</price_per_day>
+		<description>
+		The Jeep Cherokee is a line of American vehicles sold by Jeep under various vehicle classes. Originally sold as a variant of the popular Jeep Wagoneer, the Cherokee has evolved from a full-size SUV to one of the first compact SUVs and eventually into its current incarnation as a crossover SUV. 
+		</description>
+		<availability>False</availability>
+	</car>
+	<car category="wagon">
+		<id>9</id>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<model_year>2014</model_year>
+		<mileage>42135</mileage>
+		<fuel_type>CNG</fuel_type>
+		<seats>5</seats>
+		<price_per_day>210</price_per_day>
+		<description>
+		The original Golf Mk1 was a front-wheel drive, front-engined replacement for the air-cooled, rear-engined, rear-wheel drive Volkswagen Beetle. 
+		</description>
+		<availability>True</availability>
+	</car>
+	<car category="suv">
+		<id>10</id>
+		<brand>Suzuki</brand>
+		<model>Jimny</model>
+		<model_year>2018</model_year>
+		<mileage>73257</mileage>
+		<fuel_type>Diesel</fuel_type>
+		<seats>2</seats>
+		<price_per_day>310</price_per_day>
+		<description>
+		The Suzuki Jimny is a line of four-wheel drive off-road mini SUVs, made by Japanese automaker Suzuki since 1970.
+		</description>
+		<availability>True</availability>
+	</car>
+</carrentalsystem>
